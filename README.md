@@ -1,41 +1,51 @@
-# 🎮 Netflix Style Snakes & Ladders
+#  Snakes & Ladders Game
 
-A modern animated Snakes & Ladders web game inspired by Netflix-style UI design.
+A simple interactive Snakes & Ladders game built using HTML, CSS, and JavaScript.
 
-## 🚀 Features
+##  Files
 
-- Modern Netflix-inspired dark UI
-- Animated dice rolling
-- Snakes and ladders SVG graphics
-- Smooth player movement animations
-- Winner popup screen
-- Game activity log
-- Responsive layout
-- Neon effects and glow animations
+```bash
+index.html
+style.css
+script.js
+README.md
+```
 
-## 🛠 Tech Stack
+##  How to Run
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-- SVG
+1. Download or clone the repository
 
-## 📂 Project Structure
+```bash
+git clone https://github.com/your-username/snakes-ladders-game.git
+```
 
-snakes-ladders/
-│
-├── index.html
-├── style.css
-├── script.js
-├── README.md
+2. Open the project folder
 
-## ▶️ Run Locally
+3. Run the project by opening `index.html` in your browser
 
-1. Download the project
-2. Open folder in VS Code
-3. Install Live Server extension
-4. Right click index.html
-5. Click Open with Live Server
+OR
+
+Use VS Code Live Server extension.
+
+##  Features
+
+* 2 Player Game
+* Dice Roll Animation
+* Snakes & Ladders
+* Winner Popup
+* Game Log
+* Responsive UI
+
+##  Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+##  Live Demo
+
+https://6a00a3e2e7d5c4a70436c500--spectacular-wisp-74d7f5.netlify.app/
+
 
 ## 👨‍💻 Author
 
